@@ -12,3 +12,7 @@ Grid-Templates and Media Queries.
 
 
 ![web9](https://user-images.githubusercontent.com/34385544/47418327-c21dcb00-d72e-11e8-91b6-fa16dcbbbfe8.png)
+
+Responsive 
+
+![web12](https://user-images.githubusercontent.com/34385544/47418719-8c2d1680-d72f-11e8-8637-2a203aec2571.png)
